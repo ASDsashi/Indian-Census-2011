@@ -20,7 +20,7 @@ Here are some key insights derived from the analysis:
 - The average sex ratio across all states is 945.43
 - Kerala has the highest sex ratio: 1080 and Dadra and Nagar haveli has the lowest: 774
 - The average literacy rate across all states is 72.31
-- - Kerala has the highest literacy rate: 94 and  Bihar has the lowest literacy rate: 62
+- Kerala has the highest literacy rate: 94 and  Bihar has the lowest literacy rate: 62
 
 ## Usage
 
