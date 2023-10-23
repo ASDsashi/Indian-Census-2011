@@ -14,13 +14,21 @@ This project aims to analyze demographic information for states in India using c
 
 Here are some key insights derived from the analysis:
 
-- The total Indian Population is found to be 1,210,854,977
-- The average growth rate across all states is 19.27%
-- Nagaland has the highest Growth rate :   82.27% and Andaman has the lowest: 0.67%
-- The average sex ratio across all states is 945.43
-- Kerala has the highest sex ratio: 1080 and Dadra and Nagar haveli has the lowest: 774
-- The average literacy rate across all states is 72.31
-- Kerala has the highest literacy rate: 94 and  Bihar has the lowest literacy rate: 62
+- **Total Indian Population:** 1,210,854,977
+
+- **Average Growth Rate:** 19.27%
+  - Highest in Nagaland: 82.27%
+  - Lowest in Andaman: 0.67%
+
+- **Average Sex Ratio:** 945.43
+  - Highest in Kerala: 1080
+  - Lowest in Dadra and Nagar Haveli: 774
+
+- **Average Literacy Rate:** 72.31
+  - Highest in Kerala: 94
+  - Lowest in Bihar: 62
+
+These insights provide a comprehensive overview of the demographic trends observed in the analyzed census data.
 
 ## Usage
 
